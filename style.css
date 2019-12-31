@@ -1,0 +1,95 @@
+/* Screen - 1920 x 1080 - Laptop */
+
+@media only screen and (device-width: 1920px) and (device-height: 1080px) {}
+
+/* Screen - 1280 x 1024 [Landscape] - Small Laptop */
+
+@media only screen and (device-width: 1280px) and (device-height: 1024px) {}
+
+/* Screen - 1366 x 768 [Landscape] - Small Laptop */
+
+@media only screen and (device-width: 1366px) and (device-height: 768px) {}
+
+/* Screen - 1600 x 900 [Portrait] - iPad Background */
+
+@media only screen and (device-height: 1600px) and (device-width: 900px) {}
+
+/* Screen - 1440 x 900 [Portrait] - iPad Background */
+
+@media only screen and (device-height: 1440px) and (device-width: 900px) {}
+
+/* Screen - 1366 x 768 [Portrait] - iPad Background */
+
+@media only screen and (device-height: 1366px) and (device-width: 768px) {}
+
+/* Screen - 1280 x 800 [Portrait] - iPad Background */
+
+@media only screen and (device-height: 1280px) and (device-width: 800px) {}
+
+/* Screen - 1280 x 1024 [Portrait] - iPad Background */
+
+@media only screen and (device-height: 1280px) and (device-width: 1024px) {}
+
+/* iPad 1, 2, Air & Mini - 1024 x 768 [Portrait] - iPad Background */
+
+@media only screen and (device-width: 768px) and (device-height: 1024px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 1) {}
+
+/* iPad 1, 2, Air & Mini - 1024 x 768 [Landscape] - iPad Background */
+
+@media only screen and (device-height: 768px) and (device-width: 1024px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 1) {}
+
+/* iPhone 11  [Portrait] */
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 2) {}
+
+/* iPhone 11  [Landscape] */
+
+@media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 2) {}
+
+/* iPhone 11 Pro Max [Portrait] */
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone 11 Pro Max [Landscape] */
+
+@media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone 11 Pro [Portrait] */
+
+@media only screen and (device-width: 375px) and (device-height: 812px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone 11 Pro [Landscape] */
+
+@media only screen and (device-height: 375px) and (device-width: 812px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone 6,7 & 8 Plus [Portrait] */
+
+@media only screen and (device-width: 414px) and (device-height: 736px) and (orientation: Portrait) {}
+
+/* iPhone 6,7 & 8 Plus [Landscape] */
+
+@media only screen and (device-height: 414px) and (device-width: 736px) and (orientation: Landscape)and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone 6,7 & 8 [Portrait] */
+
+@media only screen and (device-width: 375px) and (device-height: 667px) and (orientation: Portrait)and (-webkit-device-pixel-ratio: 2) {}
+
+/* iPhone 6,7 & 8 [Landscape] */
+
+@media only screen and (device-height: 375px) and (device-width: 667px) and (orientation: Landscape) {}
+
+/* iPhone x [Portrait] */
+
+@media only screen and (device-width: 375px) and (device-height: 812px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone x [Landscape] */
+
+@media only screen and (device-height: 375px) and (device-width: 812px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone 5, 5S, SE [Portrait] */
+
+@media only screen and (device-width: 320px) and (device-height: 568px) and (orientation: Portrait) {}
+
+/* iPhone 5, 5S, SE [Landscape] */
+
+@media only screen and (device-height: 320px) and (device-width: 568px) and (orientation: Landscape) {}
