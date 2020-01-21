@@ -30,7 +30,23 @@
 
 @media only screen and (device-height: 1280px) and (device-width: 1024px) {}
 
-/* iPad 1, 2, Air & Mini - 1024 x 768 [Portrait] - iPad Background */
+/* iPad Pro 12.9 inch - 1024 x 1366 [Portrait] */
+
+@media only screen and (device-width: 1024px) and (device-height: 1366px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 1) {}
+
+/* iPad Pro 12.9 inch - 1366 x 1024 [Landscape] */
+
+@media only screen and (device-height: 1024px) and (device-width: 1366px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 1) {}
+
+/* iPad Pro 10.5 inch - 834 x 1112 [Portrait] */
+
+@media only screen and (device-width: 834px) and (device-height: 1112px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 1) {}
+
+/* iPad Pro 10.5 inch - 1112 x 834 [Landscape] */
+
+@media only screen and (device-width: 834px) and (device-height: 1112px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 1) {}
+
+/* iPad 1, 2, Air & Mini - 1024 x 768 [Portrait] */
 
 @media only screen and (device-width: 768px) and (device-height: 1024px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 1) {}
 
