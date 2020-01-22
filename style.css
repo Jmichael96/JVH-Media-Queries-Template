@@ -94,6 +94,14 @@
 
 @media only screen and (device-height: 375px) and (device-width: 667px) and (orientation: Landscape) {}
 
+/* iPhone XS Max [Portrait] */
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
+
+/* iPhone XR [Portrait] */
+
+@media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 2) {}
+
 /* iPhone x [Portrait] */
 
 @media only screen and (device-width: 375px) and (device-height: 812px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
