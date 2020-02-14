@@ -1,3 +1,5 @@
+/* APPLE DEVICES */
+
 /* Screen - 1920 x 1080 - Laptop */
 
 @media only screen and (device-width: 1920px) and (device-height: 1080px) {}
@@ -54,30 +56,6 @@
 
 @media only screen and (device-height: 768px) and (device-width: 1024px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 1) {}
 
-/* iPhone 11  [Portrait] */
-
-@media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 2) {}
-
-/* iPhone 11  [Landscape] */
-
-@media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 2) {}
-
-/* iPhone 11 Pro Max [Portrait] */
-
-@media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
-
-/* iPhone 11 Pro Max [Landscape] */
-
-@media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {}
-
-/* iPhone 11 Pro [Portrait] */
-
-@media only screen and (device-width: 375px) and (device-height: 812px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
-
-/* iPhone 11 Pro [Landscape] */
-
-@media only screen and (device-height: 375px) and (device-width: 812px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {}
-
 /* iPhone 6,7 & 8 Plus [Portrait] */
 
 @media only screen and (device-width: 414px) and (device-height: 736px) and (orientation: Portrait) {}
@@ -98,9 +76,17 @@
 
 @media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {}
 
+/* iPhone XS Max [Landscape] */
+
+@media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {}
+
 /* iPhone XR [Portrait] */
 
 @media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 2) {}
+
+/* iPhone XR [Landscape] */
+
+@media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 2) {}
 
 /* iPhone x [Portrait] */
 
@@ -117,3 +103,79 @@
 /* iPhone 5, 5S, SE [Landscape] */
 
 @media only screen and (device-height: 320px) and (device-width: 568px) and (orientation: Landscape) {}
+
+/* NOT NEEDED DUE TO IPHONE X MEDIA QUERIES */
+
+/* iPhone 11  [Portrait] */
+
+/* @media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 2) {} */
+
+/* iPhone 11  [Landscape] */
+
+/* @media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 2) {} */
+
+/* iPhone 11 Pro Max [Portrait] */
+
+/* @media only screen and (device-width: 414px) and (device-height: 896px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {} */
+
+/* iPhone 11 Pro Max [Landscape] */
+
+/* @media only screen and (device-height: 414px) and (device-width: 896px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {} */
+
+/* iPhone 11 Pro [Portrait] */
+
+/* @media only screen and (device-width: 375px) and (device-height: 812px) and (orientation: Portrait) and (-webkit-device-pixel-ratio: 3) {} */
+
+/* iPhone 11 Pro [Landscape] */
+
+/* @media only screen and (device-height: 375px) and (device-width: 812px) and (orientation: Landscape) and (-webkit-device-pixel-ratio: 3) {} */
+
+/* SAMSUNG DEVICES */
+
+/* Galaxy S9 Plus - 412 x 846 [Portrait] */
+
+@media only screen and (device-width: 412px) and (device-height: 846px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S9 Plus - 846 x 412  [Landscape] */
+
+@media only screen and (device-height: 412px) and (device-width: 846px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S9 - 360 x 740 [Portrait] */
+
+@media only screen and (device-width: 360px) and (device-height: 740px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S9 - 740 x 360[Landscape] */
+
+@media only screen and (device-height: 360px) and (device-width: 740px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy Note 8 - 360 x 740 [Portrait] */
+
+@media only screen and (device-width: 360px) and (device-height: 740px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy Note 8 - 740 x 360 [Landscape] */
+
+@media only screen and (device-height: 360px) and (device-width: 740px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S8 Plus - 412 x 846 [Portrait] */
+
+@media only screen and (device-width: 412px) and (device-height: 846px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S8 - 846 x 412  [Landscape] */
+
+@media only screen and (device-height: 412px) and (device-width: 846px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S7 - 360 x 640 [Portrait] */
+
+@media only screen and (device-width: 360px) and (device-height: 640px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S7 - 640 x 360 [Landscape] */
+
+@media only screen and (device-height: 360px) and (device-width: 640px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S7 edge - 360 x 640 [Portrait] */
+
+@media only screen and (device-width: 360px) and (device-height: 640px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S7 edge - 640 x 360 [Landscape] */
+
+@media only screen and (device-height: 360px) and (device-width: 640px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
