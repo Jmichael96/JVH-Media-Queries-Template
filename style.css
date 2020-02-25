@@ -104,6 +104,14 @@
 
 @media only screen and (device-height: 320px) and (device-width: 568px) and (orientation: Landscape) {}
 
+/* iPhone 4, 4S [Portrait] */
+
+@media only screen and (device-width: 320px) and (device-height: 480px) and (orientation: Portrait) {}
+
+/* iPhone 4, 4S [Landscape] */
+
+@media only screen and (device-height: 320px) and (device-width: 480px) and (orientation: Landscape) {}
+
 /* NOT NEEDED DUE TO IPHONE X MEDIA QUERIES */
 
 /* iPhone 11  [Portrait] */
@@ -179,3 +187,27 @@
 /* Galaxy S7 edge - 640 x 360 [Landscape] */
 
 @media only screen and (device-height: 360px) and (device-width: 640px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 3) {}
+
+/* Galaxy S6 - 640 x 360 [Portrait] */
+
+@media only screen and (device-width: 360px) and (device-height: 640px) and (orientation: Portrait) and (-webkit-min-device-pixel-ratio: 4) {}
+
+/* Galaxy S6 - 640 x 360 [Landscape] */
+
+@media only screen and (device-height: 360px) and (device-width: 640px) and (orientation: Landscape) and (-webkit-min-device-pixel-ratio: 4) {}
+
+/* Galaxy S4, S5 & Note 3 320 x 640 [Portrait] */
+
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: Portrait) {}
+
+/* Galaxy S4, S5 & Note 3 640 x 320 [Landscape] */
+
+@media screen and (device-height: 320px) and (device-width: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: Landscape) {}
+
+/* Galaxy S3 - 320 x 640 [Portrait] */
+
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: Portrait) {}
+
+/* Galaxy S3 - 640 x 320 [Landscape] */
+
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: Landscape) {}
